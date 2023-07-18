@@ -10,6 +10,8 @@
 ## 💚 VUE
 
 * [intro](vue/intro.md)
+* [Lifecycle Hooks (Vue3)](vue/lifecycle-hooks-vue3.md)
+* [Composables](vue/composables.md)
 
 ## 💙 react
 
