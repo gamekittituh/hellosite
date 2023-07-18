@@ -99,3 +99,11 @@ export function useFetch() {
 ในกรณีที่เกิดข้อผิดพลาดระหว่างการร้องขอ (เช่นเครือข่ายหรือรูปแบบข้อมูลไม่ถูกต้อง) ฟังก์ชัน `fetchData` จะแสดงข้อผิดพลาดในคอนโซล
 
 ที่สุดท้าย เราส่งคืนฟังก์ชัน `fetchData` ในวัตถุที่ส่งคืนจาก Composable เพื่อให้สามารถเรียกใช้งานได้จากคอมโพเนนต์หรือโมดูลอื่นในแอปพลิเคชัน Vue 3
+
+
+
+> แนะนำ การใช้งาน Composables ร่วมกับ **Vuex** หรือ **Pinia**
+>
+> [composables-+-vuex.md](composables-+-vuex.md "mention")
+>
+> [composables-+-pinia.md](composables-+-pinia.md "mention")

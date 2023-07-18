@@ -11,7 +11,9 @@
 
 * [intro](vue/intro.md)
 * [Lifecycle Hooks (Vue3)](vue/lifecycle-hooks-vue3.md)
-* [Composables](vue/composables.md)
+* [Composables](vue/composables/README.md)
+  * [🧃 Composables + Vuex](vue/composables/composables-+-vuex.md)
+  * [🍍 Composables + Pinia](vue/composables/composables-+-pinia.md)
 
 ## 💙 react
 
